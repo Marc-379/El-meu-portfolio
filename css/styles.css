@@ -87,7 +87,6 @@ th, td {
     text-align: center;
 }
 
-
 .Angles {background-color: rgb(59, 181, 185);}
 .Xarxes { background-color: rgb(141, 122, 122);}
 .Muntatge {background-color: bisque;}
@@ -98,3 +97,44 @@ th, td {
 .Tutoria { background-color: rgb(70, 70, 226);}
 .Digi { background-color: rgb(226, 162, 43);}
 
+
+.contacta {
+  margin: 20px;
+  min-height: 83vh;
+  max-width: 600px;
+  font-size: large;
+  color: #000000;
+  margin: 20px;
+  
+}
+
+.contacta form {
+  border: 1.5px solid #222222;
+  border-radius: 12px;
+  padding: 35px;
+  box-sizing: border-box;
+  background-color: rgb(132, 133, 129);
+}
+
+.contacta label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.contacta input,
+.contacta textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.contacta button {
+  background: black;
+  color: rgb(255, 253, 253);
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
