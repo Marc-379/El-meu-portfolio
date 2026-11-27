@@ -79,6 +79,7 @@ table {
     width: 100%;
     margin: 10px;
     background-color: rgb(252, 252, 252);
+    transform: scale(0.8);
 }
 
 th, td {
@@ -138,3 +139,6 @@ th, td {
   border-radius: 5px;
   font-weight: bold;
 }
+
+
+
